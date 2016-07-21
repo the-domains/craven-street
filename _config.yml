@@ -6,9 +6,11 @@ color:
   saturation: 0.5632375902496278
   rhythmicContrast: 0.24436060199514031
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Craven Street
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d258665-584f-4aec-ac80-45da68d50d7d.png
