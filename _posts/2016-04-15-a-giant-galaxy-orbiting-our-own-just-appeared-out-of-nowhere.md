@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T17:29:10.660Z'
+datePublished: '2016-08-26T17:31:50.629Z'
 sourcePath: >-
   _posts/2016-04-15-a-giant-galaxy-orbiting-our-own-just-appeared-out-of-nowhere.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-26T17:29:10.212Z'
+dateModified: '2016-08-26T17:31:50.078Z'
 title: Astral
 app_links: []
 publisher: {}
